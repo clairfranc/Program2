@@ -1,3 +1,5 @@
+# Claire Francis, Program2, September 4th, 2025
+
 package textArt;
 
 public class art {
@@ -42,3 +44,4 @@ public class art {
 	}
 
 }
+
